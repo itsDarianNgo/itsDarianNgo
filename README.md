@@ -25,7 +25,7 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Legends Barbershop</h3>
@@ -64,7 +64,7 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Fullstack web app with NASA API integration.</p>
     </td>
   </tr>
-  
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
@@ -86,7 +86,7 @@
     <td width="50%" valign="top">
       <h3 align="center">InstaFlix</h3>
         <br />
-        <a target="_blank" href="https://">
+        <a target="_blank" href="https://instaflixdb.herokuapp.com/">
           <img src="images/InstaFlix.gif" width="100%" alt="InstaFlix"/>
         </a>
         <br />
