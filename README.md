@@ -17,7 +17,7 @@
 </p>
 
 <h2 align="center">Hi 👋, I'm Darian, welcome to my GitHub 📂</h1>
-<h2 align="center">I'm a Houston based software engineer coding full-stack Javascript applications</h3>
+<h2 align="center">I'm a software engineer coding full-stack Javascript applications</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsDarianNgo&theme=algolia" alt="Darian Ngo Streak">
